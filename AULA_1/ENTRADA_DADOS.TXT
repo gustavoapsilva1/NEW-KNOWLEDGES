@@ -1,0 +1,16 @@
+ENTRADA DE DADOS SERVE PARA ARMAZENAR OS DADOS EXTERNOS DIGITADOS PEÇO USUÁRIO NAS VARIÁVEIS
+
+
+SINTAXE:
+a = input("O que desejo")
+
+
+***
+"input" recebe apenas strings (conjunto de caracteres)
+Números precisamos converter 
+
+
+b = float(input("Digite um número"))
+
+"float" é para números reais 
+"ind" é para números inteiros

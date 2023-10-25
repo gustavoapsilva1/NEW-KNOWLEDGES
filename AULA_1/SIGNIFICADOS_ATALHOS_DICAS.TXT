@@ -1,0 +1,21 @@
+SÍMBOLOS
+
+"#" serve para comentar
+"***" observação
+
+
+
+
+
+
+SIGNIFICADOS
+
+"Concatenar" juntar caracteres 
+
+
+
+
+
+ATALHOS
+
+"Copy Reative path" copiar nome 

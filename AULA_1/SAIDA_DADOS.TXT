@@ -1,0 +1,25 @@
+A SAÍDA DE DADOS SERVE PARA MOSTRAR INFORMAÇÕES AO USUÁRIO NA TELA, COMO STRINGS E DADOS DE VARIÁVEIS
+
+A FUNÇÃO QUE REALIZA ISSO É O "print()" // SINTAXE
+
+---------------------------------------------------------------------------------------------------------------
+
+PARA FUNCIONAR SAIDA DE DADOS É NECESSÁRIO QUE NO CMD ESTEJA DA SEGUINTE FORMA:
+
+"C:\Users\gusta\CURSO PYTHON\AULA_1>"
+
+ASSIM, PODEMOS ADICIONAR "saida_dados.py" PARA MOSTRAR O COMANDDO DESEJADO DO "print"
+
+(indo em cima "saida_dados.py" podemos utlizar a função "Copy Relative path" para copiar "saida_dados.py")
+
+---------------------------------------------------------------------------------------------------------------
+
+
+
+SINTAXE 
+
+print("Meu nome é Fulano")
+
+print('Meu nome é Fulano')
+
+print('''Meu nome é Fulano''')
